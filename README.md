@@ -5,7 +5,8 @@
 ## 最近更新
 
 ### 2026-11-03
-- 新增 12 个项目（共 66 个）：OS-Course-Lab、NetLogo、SICP JS/Py、QuestionBank 组稿系统、SmartKBS、CSP-J/S 资料库、ai-whys 等；刷新全部星数；新增 6 条不推荐记录。
+- 下午补充 3 个项目（共 69 个）：SolEdu 组卷平台、AI 工程中文学习路径、集成电路自学指南。
+- 上午新增 12 个项目（共 66 个）：OS-Course-Lab、NetLogo、SICP JS/Py、QuestionBank 组稿系统、SmartKBS、CSP-J/S 资料库、ai-whys 等；刷新全部星数；新增 6 条不推荐记录。
 
 ### 2026-11-02
 - 首次发布，收录 54 个项目，分为 7 个主题。
@@ -71,6 +72,7 @@
 - [Khan/perseus](https://github.com/Khan/perseus) - 可汗学院的练习题编辑器与渲染器（⭐1,596，最近更新 2026）
 - [gygy-open/question-bank](https://github.com/gygy-open/question-bank) - 面向教师与教研团队的 AI 原生题库与组稿系统，支持 Word/图片导入、LaTeX 与 Word 导出（⭐83，最近更新 2026）
 - [mingyush/csp](https://github.com/mingyush/csp) - CSP-J/S 历年真题、逐题题解、考点分析与备考资料（⭐77，最近更新 2026）
+- [zijian-optics/SolaireEPDA](https://github.com/zijian-optics/SolaireEPDA) - SolEdu：面向 K12 的开源教学自动化平台，覆盖组卷、题库、知识图谱与学情分析（⭐90，最近更新 2026）
 
 ## 🧭 课程体系与学习路径
 
@@ -84,6 +86,7 @@
 - [google/codeworld](https://github.com/google/codeworld) - 基于 Haskell 的教育用编程环境（⭐1,270，最近更新 2026）
 - [ZHYsfl/ai-whys](https://github.com/ZHYsfl/ai-whys) - 深度学习与强化学习系统学习路线：40 个实验，配数学推导笔记与从零实现代码（⭐125，最近更新 2026）
 - [goplus/spx](https://github.com/goplus/spx) - 兼容 Scratch 的 Go/XGo 2D 游戏引擎，面向 STEM 编程教育（⭐124，最近更新 2026）
+- [fancyboi999/ai-engineering-from-scratch-zh](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) - 《从零开始的 AI 工程》中文版，20 阶段 542 课的 AI 工程学习路径，配套网站与实验（⭐1,308，最近更新 2026）
 
 ## 🏫 高等教育与高校课程资料
 
@@ -97,6 +100,7 @@
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - AI 与大模型入门逐步指南，附 Colab/Kaggle 在线代码（⭐4,784，最近更新 2026）
 - [datawhalechina/llm-algo-leetcode](https://github.com/datawhalechina/llm-algo-leetcode) - 《大模型算法与系统教程》，含原理、答案解析与测试用例（⭐735，最近更新 2026）
 - [SJTU-IPADS/OS-Course-Lab](https://github.com/SJTU-IPADS/OS-Course-Lab) - 上海交大 IPADS 实验室的 ICS/CSAPP 与操作系统课程课件与实验（⭐599，最近更新 2026）
+- [Crys-Chen/ic-guide](https://github.com/Crys-Chen/ic-guide) - 集成电路/微电子专业自学指南，17 个科研方向导览与 200 多门课程资源（⭐335，最近更新 2026）
 
 ## 🛠️ 教育研究与教学工具
 
@@ -129,7 +133,7 @@
 
 ## 更新日志
 
-- 2026-11-03：新增 12 个项目，刷新星数，补充不推荐名单。
+- 2026-11-03：上午新增 12 个项目，刷新星数，补充不推荐名单；下午补充 3 个项目。
 - 2026-11-02：首次发布。
 
 ## 许可

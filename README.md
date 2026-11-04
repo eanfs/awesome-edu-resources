@@ -5,6 +5,7 @@
 ## 最近更新
 
 ### 2026-11-04
+- 下午补充 6 个项目（共 90 个）：Oak 课程本体、Callysto K-12 课程笔记本、MathWorks 热力学课程模块、forall x 逻辑学教材、INGInious 编程评测平台、OpenTutor 自适应学习。
 - 新增 15 个项目（共 84 个）：清华 OS 课程、学之思考试系统、Mafs 交互数学组件、Napkin 高数入门书、聪聪学堂原项目、教育 AI 技能库、具身智能课程等；刷新全部星数；新增 5 条不推荐记录。
 
 ### 2026-11-03
@@ -38,6 +39,7 @@
 - [learning-commons-org/knowledge-graph](https://github.com/learning-commons-org/knowledge-graph) - Learning Commons 的教育知识图谱，连接课程标准、学习进阶与教学内容的结构化数据集（英文）（⭐167，最近更新 2026）
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - 用于制作交互式数学可视化的 React 组件库（坐标系、函数图像、可拖动点等）（⭐3,447，最近更新 2026）
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - Evan Chen《An Infinitely Large Napkin》，面向高年级学生的高等数学入门免费书（英文）（⭐1,989，最近更新 2026）
+- [oaknational/oak-curriculum-ontology](https://github.com/oaknational/oak-curriculum-ontology) - 英国 Oak National Academy 课程本体：用 RDF/OWL/SKOS 表示课程并对齐英格兰国家课程，适合课程知识图谱参考（早期版本，待观察）（⭐24，最近更新 2026）
 
 ## 📚 教材与课本
 
@@ -52,6 +54,7 @@
 - [source-academy/sicp](https://github.com/source-academy/sicp) - SICP 的 JavaScript/Python 改编版教材源文件，含交互式在线版与 PDF（⭐1,026，最近更新 2026）
 - [chrisvdweth/selene](https://github.com/chrisvdweth/selene) - SELENE：以 AI 为主的大型开放交互式教材，50 多个可运行 Notebook（⭐267，最近更新 2026）
 - [AnyayayPlus/Chemistry-Note](https://github.com/AnyayayPlus/Chemistry-Note) - 依据人教版高中化学教材整理的章节笔记与考点总结，可在线阅读（无许可证）（⭐247，最近更新 2026）
+- [jonathanichikawa/for-all-x](https://github.com/jonathanichikawa/for-all-x) - UBC《forall x》开放逻辑学入门教材（LaTeX 源码，CC BY 4.0，英文）（⭐22，最近更新 2026）
 
 ## 🧪 理科实验与交互课件
 
@@ -63,6 +66,8 @@
 - [fengyanhao/3D_Magnetic_Pieces](https://github.com/fengyanhao/3D_Magnetic_Pieces) - 面向儿童与家长的 3D 磁力片搭建与教程平台（⭐307，最近更新 2026）
 - [NetLogo/NetLogo](https://github.com/NetLogo/NetLogo) - 面向学生、教师和科研人员的多主体建模与仿真环境，常用于科学课探究（⭐1,190，最近更新 2026）
 - [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) - AP 物理 1 与 AP 物理 C 的交互式 3D 教材（新项目，待观察）（⭐379，最近更新 2026）
+- [callysto/curriculum-notebooks](https://github.com/callysto/curriculum-notebooks) - 加拿大 Callysto 项目的 K-12 课程 Jupyter 笔记本，把计算思维带进数学、科学与人文课堂（英文）（⭐25，最近更新 2026）
+- [MathWorks-Teaching-Resources/Thermodynamics](https://github.com/MathWorks-Teaching-Resources/Thermodynamics) - MathWorks 热力学入门课程模块，交互式 MATLAB 实时脚本讲解热力学定律与制冷循环（需 MATLAB，英文）（⭐43，最近更新 2026）
 
 ## 📝 题库、真题与错题本
 
@@ -128,6 +133,8 @@
 - [GarethManning/education-agent-skills](https://github.com/GarethManning/education-agent-skills) - 165 个面向教师与教育产品的 AI 技能，覆盖备课、评估、课程设计与学习科学（英文）（⭐944，最近更新 2026）
 - [tjsky/pinyin-annotator](https://github.com/tjsky/pinyin-annotator) - 一键为中文文章加注拼音，生成适合幼儿园到小学低年级的注音读物（⭐415，最近更新 2026）
 - [Wing900/ManimCat](https://github.com/Wing900/ManimCat) - 用自然语言生成 Manim 数学动画，支持 LaTeX，适合制作数学讲解视频（⭐493，最近更新 2026）
+- [INGInious/INGInious](https://github.com/INGInious/INGInious) - 开源编程作业自动评测平台，用 Docker 安全运行学生代码，支持 LTI 接入现有 LMS（⭐243，最近更新 2026）
+- [zijinz456/OpenTutor](https://github.com/zijinz456/OpenTutor) - 本地运行的自适应学习工作台：上传资料生成 AI 笔记、测验、闪卡与自适应辅导（有中文 README）（⭐166，最近更新 2026）
 
 ## 未收录说明
 
@@ -156,7 +163,7 @@
 
 ## 更新日志
 
-- 2026-11-04：新增 15 个项目，刷新星数，补充不推荐名单。
+- 2026-11-04：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 6 个项目。
 - 2026-11-03：上午新增 12 个项目，刷新星数，补充不推荐名单；下午补充 3 个项目。
 - 2026-11-02：首次发布。
 

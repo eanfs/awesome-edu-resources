@@ -5,6 +5,7 @@
 ## 最近更新
 
 ### 2026-11-05
+- 下午补充 8 个项目（共 108 个）：小乐数学、ChemAIForge 化学虚拟实验、有解奥数实验室、MIT 计算思维课程、Teaching 少儿编程平台、TeachAny 互动课件、汉字学习站、吟诗古诗注音器。
 - 上午新增 10 个项目（共 100 个）：砚考在线考试系统、ReasBook Lean 形式化教材、软考架构师真题库、医学生刷题应用、SMU 人工智能课程、TeachBooks 教材模板、EduForge 备课智能体等；刷新全部星数；新增 4 条不推荐记录。
 
 ### 2026-11-04
@@ -45,6 +46,7 @@
 - [oaknational/oak-curriculum-ontology](https://github.com/oaknational/oak-curriculum-ontology) - 英国 Oak National Academy 课程本体：用 RDF/OWL/SKOS 表示课程并对齐英格兰国家课程，适合课程知识图谱参考（早期版本，待观察）（⭐24，最近更新 2026）
 - [optpku/ReasBook](https://github.com/optpku/ReasBook) - 用 Lean 4 形式化数学教材与论文，保留原书结构，可在线阅读与校对（⭐65，最近更新 2026）
 
+- [zzllrr/mather](https://github.com/zzllrr/mather) - 小乐数学：离线可用的网页数学学习与研究工具，覆盖公式编辑、作图、部分学科解题与演示（目前是演示 Demo 版）（⭐395，最近更新 2026）
 ## 📚 教材与课本
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 小初高与大学 PDF 教材合集（无许可证，注意版权）（⭐84,138，最近更新 2026）
@@ -74,6 +76,8 @@
 - [callysto/curriculum-notebooks](https://github.com/callysto/curriculum-notebooks) - 加拿大 Callysto 项目的 K-12 课程 Jupyter 笔记本，把计算思维带进数学、科学与人文课堂（英文）（⭐25，最近更新 2026）
 - [MathWorks-Teaching-Resources/Thermodynamics](https://github.com/MathWorks-Teaching-Resources/Thermodynamics) - MathWorks 热力学入门课程模块，交互式 MATLAB 实时脚本讲解热力学定律与制冷循环（需 MATLAB，英文）（⭐43，最近更新 2026）
 
+- [zhangifonly/ChemAIForge](https://github.com/zhangifonly/ChemAIForge) - AI 驱动的化学虚拟实验平台：102 个实验、立体实验台、分步语音讲解、AI 导师与实验报告（MIT）（⭐41，最近更新 2026）
+- [xianxie6/youjie-math-lab](https://github.com/xianxie6/youjie-math-lab) - 有解：高中奥数交互实验室，含均值不等式、柯西不等式、抽屉原理三课，可投屏与打印讲义（无许可证）（⭐55，最近更新 2026）
 ## 📝 题库、真题与错题本
 
 - [deekur/gaokaomath](https://github.com/deekur/gaokaomath) - 历年高考数学真题（1952-2026）（⭐1,924，最近更新 2026）
@@ -132,6 +136,7 @@
 - [mhahsler/Introduction_to_Artificial_Intelligence](https://github.com/mhahsler/Introduction_to_Artificial_Intelligence) - SMU 人工智能课程讲义、Python 示例与练习，配合 AIMA 教材（英文）（⭐105，最近更新 2026）
 - [tingyuansen/statml](https://github.com/tingyuansen/statml) - 俄亥俄州立大学《天文统计机器学习》教材配套在线阅读与 22 个实战教程（英文，无许可证）（⭐67，最近更新 2026）
 
+- [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking) - MIT 18.C25/6.C25《计算思维》课程：用 Julia 与 Pluto 笔记本学图像分析、机器学习、网络与气候建模（英文）（⭐2,845，最近更新 2026）
 ## 🛠️ 教育研究与教学工具
 
 - [anthropics/k12-teacher-skills](https://github.com/anthropics/k12-teacher-skills) - 面向 K-12 教师的 AI 技能与评估量规（⭐613，最近更新 2026）
@@ -149,6 +154,10 @@
 - [TeachBooks/template](https://github.com/TeachBooks/template) - TeachBooks 交互式教材模板，无需编程即可搭建并在线发布自己的课程书（英文）（⭐40，最近更新 2026）
 - [WF749/EduForge](https://github.com/WF749/EduForge) - 教铸：面向 K-12 教师的本地优先备课智能体，生成教案、PPT、动画与课堂游戏（个人毕业设计，待观察）（⭐32，最近更新 2026）
 
+- [open-scratch/teaching-open](https://github.com/open-scratch/teaching-open) - Teaching 少儿编程在线教学平台：集成 Scratch / ScratchJr / Python / Blockly，含课程、班级、作业与社区（Apache-2.0）（⭐632，最近更新 2026）
+- [weponusa/teachany](https://github.com/weponusa/teachany) - TeachAny（教我学）：把任意 K-12 知识点变成可讲、可玩、可练的互动课，含课标知识树与 420+ 课件库（⭐296，最近更新 2026）
+- [dhjz/hanzi-study](https://github.com/dhjz/hanzi-study) - 儿童汉字学习站：拼音、笔画、听音识字小游戏，兼加减法与小学古诗词朗读（MIT，适合学前与低年级）（⭐246，最近更新 2026）
+- [TTNAN/yinshi](https://github.com/TTNAN/yinshi) - 吟诗：统编语文古诗注音阅读器，支持田字格、遮字背诵、默写与飞花令，适合孩子学诗与课堂教学（⭐59，最近更新 2026）
 ## 未收录说明
 
 以下项目在搜索中出现过，但因违背学术诚信、与教育无关或已停止维护而不收录：
@@ -180,7 +189,7 @@
 
 ## 更新日志
 
-- 2026-11-05：上午新增 10 个项目，刷新星数，补充不推荐名单。
+- 2026-11-05：上午新增 10 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目。
 - 2026-11-04：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 6 个项目。
 - 2026-11-03：上午新增 12 个项目，刷新星数，补充不推荐名单；下午补充 3 个项目。
 - 2026-11-02：首次发布。

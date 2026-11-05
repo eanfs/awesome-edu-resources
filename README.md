@@ -43,7 +43,7 @@
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - 用于制作交互式数学可视化的 React 组件库（坐标系、函数图像、可拖动点等）（⭐3,448，最近更新 2026）
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - Evan Chen《An Infinitely Large Napkin》，面向高年级学生的高等数学入门免费书（英文）（⭐1,989，最近更新 2026）
 - [oaknational/oak-curriculum-ontology](https://github.com/oaknational/oak-curriculum-ontology) - 英国 Oak National Academy 课程本体：用 RDF/OWL/SKOS 表示课程并对齐英格兰国家课程，适合课程知识图谱参考（早期版本，待观察）（⭐24，最近更新 2026）
-- [optpku/ReasBook](https://github.com/optpku/ReasBook) - 北大团队用 Lean 4 形式化数学教材与论文，保留原书结构，可在线阅读与校对（⭐65，最近更新 2026）
+- [optpku/ReasBook](https://github.com/optpku/ReasBook) - 用 Lean 4 形式化数学教材与论文，保留原书结构，可在线阅读与校对（⭐65，最近更新 2026）
 
 ## 📚 教材与课本
 

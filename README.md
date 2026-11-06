@@ -5,6 +5,7 @@
 ## 最近更新
 
 ### 2026-11-06
+- 下午补充 8 个项目（共 129 个）：Hanzi Writer 汉字笔画、小学口算题生成、听句听说练习、SpeakHub 英语口语、Mathigon 交互教材、Multisim 电路仿真库、拾一一年级数学练习、教育评分量表 Evaluators。
 - 上午新增 13 个项目（共 121 个）：离散数学开放教材、K12 知识点图谱、数学可视化工具包、同济 CS 资料、USC 城市数据分析课、Shiroha 刷题、TATABOX 生物、黑板贴教室工具等；刷新全部星数；新增 4 条不推荐记录。
 
 ### 2026-11-05
@@ -71,6 +72,7 @@
 - [oscarlevin/discrete-book](https://github.com/oscarlevin/discrete-book) - 《Discrete Mathematics: An Open Introduction》离散数学开放教材，北科罗拉多大学课程用书（英文）（⭐293，最近更新 2026）
 - [jirilebl/ra](https://github.com/jirilebl/ra) - 《Basic Analysis》本科实分析开放教材（两卷），含 LaTeX 源码与在线阅读（英文）（⭐96，最近更新 2026）
 - [GrEarl/microgpt-lesson](https://github.com/GrEarl/microgpt-lesson) - 面向高中生的 LLM/GPT 入门教材：基于 Karpathy microgpt，从数学与编程循序构建，Colab 可跑（日/英，无许可证）（⭐258，最近更新 2026）
+- [mathigon/textbooks](https://github.com/mathigon/textbooks) - Mathigon 交互式数学教材源码：面向 12–18 岁的探索式课程书，部分教科书与虚拟导师结合（无许可证，英文）（⭐397，最近更新 2025）
 ## 🧪 理科实验与交互课件
 
 - [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) - 铜匠实验室：免费的高中物理、化学、生物、地理交互式 3D 课程，单文件可离线上课（⭐1,616，最近更新 2026）
@@ -87,6 +89,7 @@
 - [zhangifonly/ChemAIForge](https://github.com/zhangifonly/ChemAIForge) - AI 驱动的化学虚拟实验平台：102 个实验、立体实验台、分步语音讲解、AI 导师与实验报告（MIT）（⭐41，最近更新 2026）
 - [xianxie6/youjie-math-lab](https://github.com/xianxie6/youjie-math-lab) - 有解：高中奥数交互实验室，含均值不等式、柯西不等式、抽屉原理三课，可投屏与打印讲义（无许可证）（⭐55，最近更新 2026）
 - [edu-ai-builders/math-viz-kit](https://github.com/edu-ai-builders/math-viz-kit) - 123 个小学到大学交互式数学可视化工具，浏览器本地即可打开实验（含 AI 生成 skill）（⭐90，最近更新 2026）
+- [viys/Multisim](https://github.com/viys/Multisim) - Multisim 电路仿真案例库：700+ 数字/模拟与保护、检测、比较、启动控制等工程文件，适合电路学习与实验参考（无许可证）（⭐164，最近更新 2026）
 ## 📝 题库、真题与错题本
 
 - [deekur/gaokaomath](https://github.com/deekur/gaokaomath) - 历年高考数学真题（1952-2026）（⭐1,931，最近更新 2026）
@@ -111,6 +114,8 @@
 
 - [reiqr/shiroha-quiz](https://github.com/reiqr/shiroha-quiz) - Shiroha Quiz：轻量刷题应用，支持自定义题库导入、练习、模拟考试、错题复习与 AI 解析（⭐375，最近更新 2026）
 - [astrnox/TATAbox](https://github.com/astrnox/TATAbox) - TATABOX：高中生物学习平台，覆盖高考到竞赛刷题与模拟（新项目，待观察）（⭐85，最近更新 2026）
+- [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 小学数学口算题自动生成小应用：加减乘除口算练习卷，可导出打印（Apache-2.0）（⭐311，最近更新 2024）
+- [jackli01030/shiyi-math-practice](https://github.com/jackli01030/shiyi-math-practice) - 拾一数学练习：面向一年级的北师大版（2024）主题练习站，本地题库、错题再练、拼音辅助与错题打印（MIT）（⭐39，最近更新 2026）
 ## 🧭 课程体系与学习路径
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 免费学习数学、编程与计算机科学的开源课程体系（⭐458,609，最近更新 2026）
@@ -174,6 +179,10 @@
 - [TTNAN/yinshi](https://github.com/TTNAN/yinshi) - 吟诗：统编语文古诗注音阅读器，支持田字格、遮字背诵、默写与飞花令，适合孩子学诗与课堂教学（⭐69，最近更新 2026）
 - [ZongziTEK/ZongziTEK-Blackboard-Sticker](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker) - ZongziTEK 黑板贴：教室电脑桌面大部件，含小黑板、课程表、启动台与信息看板（⭐198，最近更新 2026）
 - [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) - Exam Cram Coach：基于课件/作业/真题的 AI 备考教练 Skill，带页码溯源与测验（英文）（⭐367，最近更新 2026）
+- [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer) - Hanzi Writer：汉字笔画顺序动画与书写练习测验 JS 库，可嵌入网页做识字教学（MIT）（⭐5,060，最近更新 2025）
+- [Pi3-l22/TingJu](https://github.com/Pi3-l22/TingJu) - 听句 TingJu：输入文章生成逐句翻译与音频，支持听写与发音练习，覆盖英/日/韩/法/德等 9 语（AGPL-3.0）（⭐141，最近更新 2026）
+- [yin-yizhen/SpeakHub](https://github.com/yin-yizhen/SpeakHub) - SpeakHub：Windows 端 AI 英语口语工具，串起自由对话、实时字幕、查词收藏、练习复盘与词汇复习（MIT）（⭐174，最近更新 2026）
+- [learning-commons-org/evaluators](https://github.com/learning-commons-org/evaluators) - Learning Commons Evaluators：用教育研究支持的评分量表评测 AI 生成教学内容质量（MIT，英文）（⭐88，最近更新 2026）
 ## 未收录说明
 
 以下项目在搜索中出现过，但因违背学术诚信、与教育无关或已停止维护而不收录：
@@ -207,9 +216,12 @@
 - March-OwO/Xuexitong-LLM-Assistant：学习通自动刷课与大模型答题脚本，违背学术诚信
 - ZZ0YY/EWT-TOOL：升学 e 网通刷课与自动答卷油猴脚本，违背学术诚信
 
+- ColdThunder11/ZJOOCAutoPlay：浙江省高等学校在线开放课程共享平台（zjooc.cn）课程视频自动播放脚本，违背学术诚信
+- ChaosJulien/XiaoYuanKouSuan_Auto：小猿口算自动答题工具，违背练习诚信
+
 ## 更新日志
 
-- 2026-11-06：上午新增 13 个项目，刷新星数，补充不推荐名单。
+- 2026-11-06：上午新增 13 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目，补充不推荐名单。
 - 2026-11-05：上午新增 10 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目。
 - 2026-11-04：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 6 个项目。
 - 2026-11-03：上午新增 12 个项目，刷新星数，补充不推荐名单；下午补充 3 个项目。

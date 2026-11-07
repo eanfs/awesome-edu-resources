@@ -5,6 +5,7 @@
 ## 最近更新
 
 ### 2026-11-07
+- 下午补充 9 个项目（共 153 个）：Moodle / Open edX 两大开源 LMS、化学计算开放教材、能豆 AI 作业批改、四六级备考 Skill、哈工深大学物理实验、FreeLingo AI 语言学习、Rapid Router 少儿 Blockly、英语讲评课件 Skill；新增 2 条不推荐记录。
 - 上午新增 15 个项目（共 144 个）：OSSU 数学路径、LinkedIn SRE 课程、现代强化学习动手课、Algorithms 4e 源码、PAIP 开放教材、RL 开放教材、考研数二/管综真题、正贤小学平台、雅思阅读与资料、蓝桥杯 Python 课件、ExamPass 课件转测、英汉单词、Edu-RAG 等；刷新全部星数；新增 4 条不推荐记录。
 
 ### 2026-11-06
@@ -68,6 +69,7 @@
 - [source-academy/sicp](https://github.com/source-academy/sicp) - SICP 的 JavaScript/Python 改编版教材源文件，含交互式在线版与 PDF（⭐1,026，最近更新 2026）
 - [chrisvdweth/selene](https://github.com/chrisvdweth/selene) - SELENE：以 AI 为主的大型开放交互式教材，50 多个可运行 Notebook（⭐267，最近更新 2026）
 - [AnyayayPlus/Chemistry-Note](https://github.com/AnyayayPlus/Chemistry-Note) - 依据人教版高中化学教材整理的章节笔记与考点总结，可在线阅读（无许可证）（⭐246，最近更新 2026）
+- [weisscharlesj/SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - 《Scientific Computing for Chemists with Python》免费教材：用 Jupyter 教化学计算（NumPy/SciPy/pandas 等）（英文）（⭐343，最近更新 2026）
 - [jonathanichikawa/for-all-x](https://github.com/jonathanichikawa/for-all-x) - UBC《forall x》开放逻辑学入门教材（LaTeX 源码，CC BY 4.0，英文）（⭐22，最近更新 2026）
 - [vultur/smart-app](https://github.com/vultur/smart-app) - 国家中小学智慧教育平台第三方客户端，批量下载教材 PDF、课件与音视频资源（无许可证，注意版权）（⭐50，最近更新 2026）
 - [oscarlevin/discrete-book](https://github.com/oscarlevin/discrete-book) - 《Discrete Mathematics: An Open Introduction》离散数学开放教材，北科罗拉多大学课程用书（英文）（⭐291，最近更新 2026）
@@ -112,6 +114,7 @@
 - [zijian-optics/SolaireEPDA](https://github.com/zijian-optics/SolaireEPDA) - SolEdu：面向 K12 的开源教学自动化平台，覆盖组卷、题库、知识图谱与学情分析（⭐90，最近更新 2026）
 - [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统（Java + Vue），支持题库、组卷、在线考试与阅卷（⭐3,605，最近更新 2026）
 - [o-Sakurajimamai-o/cet-practice](https://github.com/o-Sakurajimamai-o/cet-practice) - 英语研习室：本地运行的四六级与考研英语历年真题练习工具，含错题、收藏与笔记（新项目，答案来自第三方，待观察）（⭐138，最近更新 2026）
+- [Liuxiangjian-ai/cet-skill](https://github.com/Liuxiangjian-ai/cet-skill) - 基于 2015–2025 四六级真题趋势的备考 Skill：生成原创训练题、作文批改、翻译纠错与备考规划（MIT）（⭐251，最近更新 2026）
 - [Alanosy/exam-platform](https://github.com/Alanosy/exam-platform) - 「砚考」在线考试系统：出题、规则组卷、考试、监考、阅卷、统计与错题巩固全流程（⭐887，最近更新 2026）
 - [wssfk12138/english-multiple-choice-practice-machine](https://github.com/wssfk12138/english-multiple-choice-practice-machine) - 英语刷题机：Windows 本地英语客观题练习、错题复习与单词记忆，题库可自定义（新项目，待观察）（⭐101，最近更新 2026）
 - [hongge-ai/ruankao-senior-architecture-designer](https://github.com/hongge-ai/ruankao-senior-architecture-designer) - 软考系统架构设计师备考知识库：大纲、教材与 2016—2025 历年真题的 Markdown 整理（非官方，可能含 OCR 错误）（⭐80，最近更新 2026）
@@ -137,6 +140,7 @@
 - [google/codeworld](https://github.com/google/codeworld) - 基于 Haskell 的教育用编程环境（⭐1,270，最近更新 2026）
 - [ZHYsfl/ai-whys](https://github.com/ZHYsfl/ai-whys) - 深度学习与强化学习系统学习路线：40 个实验，配数学推导笔记与从零实现代码（⭐126，最近更新 2026）
 - [goplus/spx](https://github.com/goplus/spx) - 兼容 Scratch 的 Go/XGo 2D 游戏引擎，面向 STEM 编程教育（⭐124，最近更新 2026）
+- [codeforlife-education/rapid-router](https://github.com/codeforlife-education/rapid-router) - Code for Life：面向 5–11 岁的 Blockly 游戏 Rapid Router，及面向 11+ 的 Python Den（英文）（⭐60，最近更新 2026）
 - [fancyboi999/ai-engineering-from-scratch-zh](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) - 《从零开始的 AI 工程》中文版，20 阶段 542 课的 AI 工程学习路径，配套网站与实验（⭐1,317，最近更新 2026）
 - [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 左程云的算法与数据结构通关课，按视频课节整理代码（无许可证）（⭐3,496，最近更新 2026）
 - [datawhalechina/easy-data-x-ai](https://github.com/datawhalechina/easy-data-x-ai) - Datawhale《Easy Data x AI》：面向爱好者的数据与 AI 基础入门双轨课程（Alpha 内测）（⭐202，最近更新 2026）
@@ -160,6 +164,7 @@
 - [Crys-Chen/ic-guide](https://github.com/Crys-Chen/ic-guide) - 集成电路/微电子专业自学指南，17 个科研方向导览与 200 多门课程资源（⭐345，最近更新 2026）
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 清华大学操作系统课程（2026 春）课件、实验指导、思维导图与挑战项目（⭐814，最近更新 2026）
 - [openwhu/OpenWHU](https://github.com/openwhu/OpenWHU) - 武汉大学课程资料整理（WHU 课代表计划）（⭐1,753，最近更新 2026）
+- [HITSZ-OpenAuto/PHYS1002](https://github.com/HITSZ-OpenAuto/PHYS1002) - 哈尔滨工业大学（深圳）大学物理实验资料与笔记，配套公开文档站点（无许可证）（⭐120，最近更新 2026）
 - [datawhalechina/dive-into-embodied-ai](https://github.com/datawhalechina/dive-into-embodied-ai) - Datawhale 具身智能入门教程：从零搭建机器人，涵盖强化学习、世界模型、VLA 等（⭐693，最近更新 2026）
 - [zengxiong111/Foundation_of_Embodied_AI](https://github.com/zengxiong111/Foundation_of_Embodied_AI) - 具身智能基础课程讲义，20 个主题，中英文 Markdown 与 PDF（ChatGPT 辅助生成，新项目，待观察）（⭐222，最近更新 2026）
 - [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) - 斯坦福 CS329Z《Engineering AI Agents》非官方中文自学教程，19 讲 + 4 个练习（新项目，无许可证，待观察）（⭐503，最近更新 2026）
@@ -197,6 +202,11 @@
 - [mikigo/english-chinese-words](https://github.com/mikigo/english-chinese-words) - Web 版免费学单词：覆盖小学到考研/雅思托福等多学段词库（Apache-2.0）（⭐62，最近更新 2026）
 - [WUBING2023/ExamPass-Assistant](https://github.com/WUBING2023/ExamPass-Assistant) - ExamPass Assistant：把 PPT/Word/PDF 课件一键转为知识清单与交互测试题（⭐803，最近更新 2026）
 - [EasyRoc/edu-rag](https://github.com/EasyRoc/edu-rag) - Edu-RAG：面向 K12/学科教育的轻量 RAG 智能助教框架，教材教辅知识库答疑与导学（⭐63，最近更新 2026）
+- [moodle/moodle](https://github.com/moodle/moodle) - Moodle：全球广泛使用的开源学习管理平台（LMS），支持课程、作业、测验与插件生态（GPL-3.0，英文）（⭐7,589，最近更新 2026）
+- [openedx/openedx-platform](https://github.com/openedx/openedx-platform) - Open edX LMS & Studio：支撑大规模在线课程与教育站点的开源平台（AGPL-3.0，英文）（⭐8,218，最近更新 2026）
+- [yinuoguan/nengdou-ai-review-helper-web](https://github.com/yinuoguan/nengdou-ai-review-helper-web) - 能豆 AI：面向语文/英语/数学等多科目的智能作业批改与反馈系统（Web 端，木兰协议）（⭐193，最近更新 2026）
+- [artcc/freelingo](https://github.com/artcc/freelingo) - FreeLingo：可自托管的 AI 语言学习平台，含 CEFR 计划、口语对话、闪卡与间隔复习（AGPL-3.0，英文）（⭐245，最近更新 2026）
+- [hututu-ai/english-exam-studio](https://github.com/hututu-ai/english-exam-studio) - 英语实战讲评 Skill：根据试卷、答案与听力自动生成教师 HTML 整卷讲评课件（MIT）（⭐43，最近更新 2026）
 
 ## 未收录说明
 
@@ -239,9 +249,12 @@
 - chaolucky18/xuexitongScript：学习通自动刷课脚本，违背学术诚信
 - Niuwh/yuketang-jiaoben：雨课堂刷课脚本，违背学术诚信
 
+- pang-qin/chaoxing-toolkit：超星学习通全自动刷课、测验/作业/考试自动答题工具，违背学术诚信
+- hyunsssssssss/ShiTingShuo：清华社英语视听说自动答题挂课油猴脚本（已归档），违背学术诚信
+
 ## 更新日志
 
-- 2026-11-07：上午新增 15 个项目，刷新星数，补充不推荐名单。
+- 2026-11-07：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 9 个项目，补充不推荐名单。
 - 2026-11-06：上午新增 13 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目，补充不推荐名单。
 - 2026-11-05：上午新增 10 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目。
 - 2026-11-04：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 6 个项目。

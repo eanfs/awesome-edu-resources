@@ -5,6 +5,7 @@
 ## 最近更新
 
 ### 2026-11-08
+- 下午补充 6 个项目（共 174 个）：OI Wiki、算法竞赛入门指南、MIT 18.06 线性代数中文笔记、Interactive Linear Algebra 开放教材、遨游太阳系 3D 天文演示、Ultimate Geography 地理闪卡。
 - 上午新增 15 个项目（共 168 个）：电子科大/北航/华科研究生/川大/南邮课程资料、北大高数 B、考研政治笔记与考研英语词频、伯克利 Data 100 与 CS161 教材、BJC 编程课程、华科开源软件通识课、高级机器学习教材、自动驾驶入门教材、PyEdmine 教育数据挖掘库；刷新全部星数；新增 4 条不推荐记录。
 
 ### 2026-11-07
@@ -87,6 +88,7 @@
 - [DS-100/textbook](https://github.com/DS-100/textbook) - 伯克利 Data 100 配套教材《Learning Data Science》，覆盖数据科学生命周期中的编程与统计基础（CC BY-NC-ND 4.0，英文）（⭐270，最近更新 2026）
 - [cs161-staff/textbook](https://github.com/cs161-staff/textbook) - UC Berkeley CS 161《计算机安全》课程在线教材源码（英文）（⭐90，最近更新 2026）
 - [NiuTrans/AML-Notes](https://github.com/NiuTrans/AML-Notes) - 东北大学 NLP 实验室《高级机器学习》开放教材：数学基础、强化学习、大模型预训练与微调、生成模型、多模态等，附完整 PDF（新项目，无许可证，待观察）（⭐52，最近更新 2026）
+- [QBobWatson/ila](https://github.com/QBobWatson/ila) - 佐治亚理工开放教材《Introduction to Linear Algebra》（Interactive Linear Algebra）源码，在线版含交互演示（英文）（⭐779，最近更新 2026）
 
 ## 🧪 理科实验与交互课件
 
@@ -104,6 +106,7 @@
 - [xianxie6/youjie-math-lab](https://github.com/xianxie6/youjie-math-lab) - 有解：高中奥数交互实验室，含均值不等式、柯西不等式、抽屉原理三课，可投屏与打印讲义（无许可证）（⭐55，最近更新 2026）
 - [edu-ai-builders/math-viz-kit](https://github.com/edu-ai-builders/math-viz-kit) - 123 个小学到大学交互式数学可视化工具，浏览器本地即可打开实验（含 AI 生成 skill）（⭐92，最近更新 2026）
 - [viys/Multisim](https://github.com/viys/Multisim) - Multisim 电路仿真案例库：700+ 数字/模拟与保护、检测、比较、启动控制等工程文件，适合电路学习与实验参考（无许可证）（⭐164，最近更新 2026）
+- [hyqzz/Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 遨游太阳系：基于 NASA JPL 星历、Three.js/WebGL 的浏览器 1:1 实时太阳系探索器，适合天文与地理课堂演示（MIT，有中文 README）（⭐766，最近更新 2026）
 ## 📝 题库、真题与错题本
 
 - [deekur/gaokaomath](https://github.com/deekur/gaokaomath) - 历年高考数学真题（1952-2026）（⭐1,938，最近更新 2026）
@@ -135,6 +138,7 @@
 - [132465798a/zx-study](https://github.com/132465798a/zx-study) - 正贤学习平台：小学 1–6 年级语文/数学/英语离线练习、模拟考、错题本与线下组卷（MIT）（⭐39，最近更新 2026）
 - [hwttop5/ielts-reading-past-papers](https://github.com/hwttop5/ielts-reading-past-papers) - 雅思阅读备考 Web 应用：民间题库、练习复盘与 AI 助教（GPL-3.0）（⭐50，最近更新 2026）
 - [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary) - 考研英语大纲 5530 词按历年真题词频排序的数据集，含释义、CEFR 重排版与超课标词表（数据 CC BY-NC-SA 4.0）（⭐258，最近更新 2026）
+- [anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography) - Ultimate Geography 地理 Anki 闪卡：205 个国家与地区的国旗、首都、地图共 978 张卡片，含简繁中文版（⭐1,198，最近更新 2026）
 
 ## 🧭 课程体系与学习路径
 
@@ -158,6 +162,8 @@
 - [TsingPig/Python-Quick-Course](https://github.com/TsingPig/Python-Quick-Course) - 面向 Python 算法竞赛选手的蓝桥杯速成课件仓库（配套视频）（⭐883，最近更新 2026）
 - [cs10/bjc-r](https://github.com/cs10/bjc-r) - The Beauty and Joy of Computing（BJC）课程实验资源库：伯克利 CS10 与 AP CSP 使用的 Snap! 编程入门课程（英文）（⭐32，最近更新 2026）
 - [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 华中科技大学开源俱乐部《开源软件通识》课程：16 课时、8 次课，含大纲、讲义与真实开源贡献项目（MIT）（⭐55，最近更新 2026）
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - OI Wiki：信息学奥赛（OI）与 ICPC 算法竞赛知识整合站，覆盖基础、数据结构、图论、数学等（在线站 oi-wiki.org）（⭐27,121，最近更新 2026）
+- [NullResot/XCPC-Beginner-Guide](https://github.com/NullResot/XCPC-Beginner-Guide) - 《萌新认识与入门算法竞赛》：面向大学新生的 ICPC/CCPC 等算法竞赛入门指南，含赛事、训练平台与学习路线（⭐292，最近更新 2026）
 
 ## 🏫 高等教育与高校课程资料
 
@@ -190,6 +196,7 @@
 - [NJUPTFreeExams/NJUPT-General-Free-Exams](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams) - 南京邮电大学课程资源共享计划：通识课资料与门户网站（无许可证）（⭐817，最近更新 2026）
 - [zhuozhiyongde/Advanced-Mathematics-B-2022-PKU](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU) - 北京大学高等数学 B 学习资料：往年试题、个人解答、笔记与学习经验（试卷版权归北大，其余 CC BY-NC-SA 4.0）（⭐297，最近更新 2025）
 - [XColorful/Politics-Obsidian-Note](https://github.com/XColorful/Politics-Obsidian-Note) - 考研政治核心考案 Obsidian 笔记：马原、思修、史纲、毛中特与新思想，可同步更新（无标准许可证）（⭐165，最近更新 2026）
+- [zlotus/notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - MIT 18.06 线性代数中文笔记（Jupyter Notebook），按公开课逐集整理，经典老项目（⭐4,306，最近更新 2023）
 ## 🛠️ 教育研究与教学工具
 
 - [anthropics/k12-teacher-skills](https://github.com/anthropics/k12-teacher-skills) - 面向 K-12 教师的 AI 技能与评估量规（⭐615，最近更新 2026）
@@ -277,7 +284,7 @@
 
 ## 更新日志
 
-- 2026-11-08：上午新增 15 个项目，刷新星数，补充不推荐名单。
+- 2026-11-08：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 6 个项目。
 - 2026-11-07：上午新增 15 个项目，刷新星数，补充不推荐名单；下午补充 9 个项目，补充不推荐名单。
 - 2026-11-06：上午新增 13 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目，补充不推荐名单。
 - 2026-11-05：上午新增 10 个项目，刷新星数，补充不推荐名单；下午补充 8 个项目。

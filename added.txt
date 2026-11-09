@@ -1,0 +1,15 @@
+zeroa234/cs-math-skill-tree 30 ## 🧭 课程体系与学习路径
+changyicheng1234/OpenISE 74 ## 🏫 高等教育与高校课程资料
+nkai-share/nankai-ai-Datashare 67 ## 🏫 高等教育与高校课程资料
+sichaohe/BJTU-SE-Notes 88 ## 🏫 高等教育与高校课程资料
+Luhaozhhhhe/NKU_Final_Exam 94 ## 🏫 高等教育与高校课程资料
+AnyMoonS/SkyStarLib 53 ## 🏫 高等教育与高校课程资料
+zhuozhiyongde/Embodied-Artificial-Intelligence-2025Spring-PKU 99 ## 🏫 高等教育与高校课程资料
+zhuozhiyongde/Compiler-Principles-2024Fall-PKU 64 ## 🏫 高等教育与高校课程资料
+Hilbert-beinghappy/note-in-fzu 40 ## 🏫 高等教育与高校课程资料
+CCCP-lus/BFU-CS 40 ## 🏫 高等教育与高校课程资料
+AusertDream/SMU-ExamOpenResource 32 ## 🏫 高等教育与高校课程资料
+Vincia-Jun/GENERATIVE-AI-2024-SPRING-NOTEs 31 ## 🏫 高等教育与高校课程资料
+Liunian06/ko-lesson 690 ## 🛠️ 教育研究与教学工具
+ZhehanLiu0916/final-exam-review-skill 64 ## 🛠️ 教育研究与教学工具
+zelda3721/math-learning-tool 49 ## 🛠️ 教育研究与教学工具
